@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajitpatil222
 - 👀 I’m interested in cybersecurity field
-- 🌱 Recently, I have completed the Google Cybersecurity Certification on Coursera platform. It includes some projects and activities to have hands on experiment. These are documents are basic 
-      but important part of the daily routine as Entry Level Cybersecurity Analyst. I hope you read it. Suggestions/Corrections are welcome
+- 🌱 Recently, I have completed the Google Cybersecurity Certification on Coursera platform. It includes some projects and activities to have hands on experiment. These documents are basic 
+      but important part of the daily routine as an Entry Level Cybersecurity Analyst. I hope you enjoy it. Suggestions/Corrections are welcome!
 - 📫 reach me by email: a.patil1@student.unisi.it
 
 
